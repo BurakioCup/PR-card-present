@@ -43,3 +43,7 @@
 
 ### Backend
 - nodejsもexpressもGCPも触ったことなかった（仮想DOMでめちゃボコボコにされた）
+-
+
+# Hackathon achievements  
+![Fate](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/bug-min.png)
