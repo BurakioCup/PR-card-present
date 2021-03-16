@@ -1,5 +1,5 @@
 # 僕たちは「PR-card」というサービスを作りました。  
-※とてもじゃないですが5分間のデモで実装したことを伝えることはできません。声をかけていただければお見せします！！
+※5分間のデモで実装した機能の全てを紹介することはできません。声をかけていただければお見せします！！
 
 ![ロゴ](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/logo.png)
 
