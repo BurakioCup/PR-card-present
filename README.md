@@ -4,6 +4,12 @@
 ![ロゴ](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/logo.png)
 
 ---
+## Service function
+- 名刺作成機能
+- 名刺閲覧機能(AR)
+- 所持名刺一覧表示機能
+- 所持名刺詳細表示機能
+- 名刺更新機能
 
 ## Service Architecture
 ![アーキテクチャ](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/architecture.png)
