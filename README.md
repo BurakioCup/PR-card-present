@@ -11,7 +11,8 @@
   - 飲んだレッドブル 6本
 - 工藤海斗(iOS)
   - 飲んだレッドブル 6本 
-- 西川昴志(backend:node.js)
+- 西川昂志(backend:node.js * GCP)
+  - 飲んだcoffee 12杯
 - 若松丈人(backend:go)
   - 飲んだレッドブル 6本
 - 大崎敬太(backend:go) 
