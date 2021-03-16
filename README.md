@@ -41,3 +41,4 @@
 ### iOS
 
 ### Backend
+- nodejsもexpressもGCPも触ったことなかった（仮想DOMでめちゃボコボコにされた）
