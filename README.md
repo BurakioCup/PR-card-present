@@ -63,10 +63,12 @@ Swift/nodejs/Go/Heroku/Docker/AWS/GCP/zip
 このサービスを作ることで自分たちのニーズを満たしつつ、成果物として自分たちの持つ技術のアウトプットもすることができました！！！！
 
 ## What we challenged
-- AR
+- AR(座標管理がとても難しかった)
 - グラフ描画
 - nodejsもexpressもGCPも触ったことなかった（仮想DOMでめちゃボコボコにされた）
-- 
+- 画像検出(初めて使用するフレームワークの理解に苦労した)
+- 音声入力やスライドバーを用いた直感的な操作
+- 将来使われることを想定した近未来的デザイン
 
 # Hackathon achievements  
 ![Fate](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/bug-min.png)
