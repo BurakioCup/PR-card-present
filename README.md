@@ -63,12 +63,10 @@ Swift/nodejs/Go/Heroku/Docker/AWS/GCP/zip
 このサービスを作ることで自分たちのニーズを満たしつつ、成果物として自分たちの持つ技術のアウトプットもすることができました！！！！
 
 ## What we challenged
-### iOS
 - AR
 - グラフ描画
-### Backend
 - nodejsもexpressもGCPも触ったことなかった（仮想DOMでめちゃボコボコにされた）
--
+- 
 
 # Hackathon achievements  
 ![Fate](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/bug-min.png)
