@@ -74,4 +74,4 @@ Swift/nodejs/Go/Heroku/Docker/AWS/GCP/zip
 
 
 # Unimplemented Service Architecture
-![Fate](https://gyazo.com/6c19c2e5bc8cc02d59fca4a7efc070f3)
+![Unimplemented Service Architecture](https://i.gyazo.com/6c19c2e5bc8cc02d59fca4a7efc070f3.png)
