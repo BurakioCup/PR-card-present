@@ -53,7 +53,8 @@
 
 ## What we challenged
 ### iOS
-
+- AR
+- グラフ描画
 ### Backend
 - nodejsもexpressもGCPも触ったことなかった（仮想DOMでめちゃボコボコにされた）
 -
