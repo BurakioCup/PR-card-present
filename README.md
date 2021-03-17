@@ -73,5 +73,3 @@ Swift/nodejs/Go/Heroku/Docker/AWS/GCP/zip
 ![Fate](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/bug-min.png)
 
 
-# Unimplemented Service Architecture
-![Unimplemented Service Architecture](https://i.gyazo.com/6c19c2e5bc8cc02d59fca4a7efc070f3.png)
