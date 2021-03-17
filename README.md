@@ -1,3 +1,9 @@
+# 僕たちは「PR-card」というサービスを作りました。  
+※<b>サービスです！ </b>5分間のデモで実装した機能の全てを紹介することはできません。気になる方は声をかけていただきたいです！！
+
+![ロゴ](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/logo.png)
+
+---
 - 推しアイデア
 ただお互いの情報(名刺)を電子的に交換するだけでなく、ARでの閲覧も採用しこれまでに存在しているサービスのとの差別化を図りました。  
 自分の名刺を作成する際にテキスト入力だけでなく、音声入力を採用することでこれまでにないUXをお届けします。
@@ -8,13 +14,6 @@ Swift/nodejs/Go/Heroku/Docker/AWS/GCP/zip
  - サービスの説明(一言ぐらい)
 面倒な名刺交換や自己紹介を場所に囚われず、ARで簡単に楽しく！！
 
-
-# 僕たちは「PR-card」というサービスを作りました。  
-※<b>サービスです！ </b>5分間のデモで実装した機能の全てを紹介することはできません。気になる方は声をかけていただきたいです！！
-
-![ロゴ](https://initial-practice.s3-ap-northeast-1.amazonaws.com/second-sprintReview/logo.png)
-
----
 ## Service function
 - 名刺作成機能
 - 名刺閲覧機能(AR)
